@@ -2,12 +2,12 @@ server1:
     hostname: server1.your-domain.com
     active: true
 server2:
-    hostname: server1.your-domain.com
+    hostname: server2.your-domain.com
     active: true
 server3:
-    hostname: server1.your-domain.com
+    hostname: server3.your-domain.com
     active: true
 server4:
-    hostname: server1.your-domain.com
+    hostname: server4.your-domain.com
     active: true
 
